@@ -47,7 +47,7 @@ export class dataPointSettings {
 }*/
 
 export class CircleSettings {
-  public circleColor: string = "white";
+  public circleColor: string = "black";
   public circleThickness: number = 2;
 }
 export class VisualSettings extends DataViewObjectsParser {
