@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"J","email":"j@hotmail.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/circleCardD174996480274E5C8BACB3B94487468E.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"circleCard","displayName":"Circle Card","guid":"circleCardD174996480274E5C8BACB3B94487468E","visualClassName":"Visual","version":"1.0.0","description":"Displays a formatted measure value inside a circle","supportUrl":"https://community.powerbi.com","gitHubUrl":"https://github.com/microsoft/PowerBI-visuals-circlecard"},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
